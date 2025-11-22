@@ -1,0 +1,12 @@
+streamlit
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+pandas
+plotly
+opencv-python-headless
+pyzbar
+numpy
+Pillow
+openpyxl
